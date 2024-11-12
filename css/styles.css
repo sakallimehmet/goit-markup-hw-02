@@ -49,7 +49,7 @@ a{
     text-decoration: underline;
 }
 
-.logo1{
+.logo-1{
     font-family: "Raleway", sans-serif;
     color:#4D5AE5;
     font-weight: 700;
@@ -58,7 +58,7 @@ a{
     letter-spacing: 0.03em;
     text-transform: uppercase;
 }
-.logo2 {
+.logo-2 {
     font-family: "Raleway", sans-serif;
     color: #2E2F42;
     font-weight: 700;
