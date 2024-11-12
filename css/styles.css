@@ -1,0 +1,151 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 2%;
+    color:#434455;
+}
+
+h1{
+    font-family:'Roboto', sans-serif;
+    font-weight: 700;
+    font-size: 56px;
+    letter-spacing: 2%;
+    line-height: 60px;
+}
+ul{
+    list-style:none ;
+}
+h2 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    font-size: 36px;
+    letter-spacing: 2%;
+}
+
+h3 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    font-size: 20px;
+    letter-spacing: 2%;
+}
+
+button{
+    font-family: 'Roboto',sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 4%;
+}
+
+a{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 16px;
+    letter-spacing: 4%;
+    text-decoration: underline;
+}
+
+.logo1{
+    font-family: "Raleway", sans-serif;
+    color:#4D5AE5;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 21px;
+    letter-spacing: 3%;
+}
+.logo2 {
+    font-family: "Raleway", sans-serif;
+    color: #2E2F42;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 21px;
+    letter-spacing: 3%;
+}
+
+nav a{
+    text-decoration: none;
+}
+
+.logo a{
+    text-decoration: none;
+}
+
+.menu a{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 2%;
+    color:#2E2F42;
+}
+
+.menu a:hover{
+    color:#404BBF;
+}
+
+address a{
+    color: #434455;
+    text-decoration: none;
+}
+address a:hover{
+    color:#404BBF
+    
+}
+
+.order button{
+    color: white;
+    background-color: #4D5AE5;
+    cursor: pointer;
+}
+.order button:hover {
+    background-color: #404BBF;
+}
+
+.order{
+    background-color: #2E2F42;
+    color:white;
+}
+
+.list h3{
+    color:#2E2F42;
+}
+
+.team h2{
+    color:#2E2F42;
+
+}
+
+.team{
+    background-color: #F4F4FD;
+}
+.team img {
+    width: 264px;
+    height: 260px;
+}
+
+.portfolio img {
+    width: 360px;
+    height: 300px;
+}
+
+.portfolio h2 {
+    color: #2E2F42;
+}
+.portfolio h3{
+    color:#2E2F42;
+}
+.portfolio p {
+    color: #434455;
+}
+
+footer{
+    background-color: #2E2F42;
+    color:#F4F4FD;
+}
+
+footer .logo2{
+    color:#F4F4FD;
+}
