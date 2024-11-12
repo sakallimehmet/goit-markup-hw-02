@@ -70,6 +70,11 @@ a{
 
 nav a{
     text-decoration: none;
+    letter-spacing: 0.02em
+}
+
+nav a:hover{
+    color:#404bbf;
 }
 
 .menu a{
@@ -84,8 +89,10 @@ nav a{
 .menu a:hover{
     color:#404BBF;
 }
-
-address a{
+.adres{
+    font-style: normal;
+}
+.font a{
     color: #434455;
     text-decoration: none;
 }
