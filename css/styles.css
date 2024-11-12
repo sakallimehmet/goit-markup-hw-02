@@ -76,6 +76,9 @@ nav a{
 .site-logo:hover{
     color:#404bbf;
 }
+.site-logo:focus{
+    color:#404bbf;
+}
 
 .menu a{
     font-family: 'Roboto', sans-serif;
