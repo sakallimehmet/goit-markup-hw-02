@@ -8,12 +8,13 @@ body {
     background-color: #FFFFFF;
 }
 
-h1{
+.order-title{
     font-family:'Roboto', sans-serif;
     font-weight: 700;
     font-size: 56px;
-    letter-spacing: 2%;
-    line-height: 60px;
+    letter-spacing: 0.02em;
+    line-height: 1.07;
+    text-align: center;
 }
 ul{
     list-style:none ;
@@ -32,12 +33,23 @@ h3 {
     letter-spacing: 2%;
 }
 
-button{
+.button-order{
+background-color: #4D5AE5;
     font-family: 'Roboto',sans-serif;
     font-weight: 500;
     font-size: 16px;
-    line-height: 24px;
-    letter-spacing: 4%;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color: #ffffff;
+    cursor: pointer';
+}
+
+.button-order:hover{
+    background-color: #404BBF;
+}
+
+.button-order:focus {
+    background-color: #404BBF;
 }
 
 a{
@@ -117,15 +129,6 @@ nav a{
 }
 .adres-link:focus {
     color: #404BBF
-}
-
-.order button{
-    color: white;
-    background-color: #4D5AE5;
-    cursor: pointer;
-}
-.order button:hover {
-    background-color: #404BBF;
 }
 
 .order{
