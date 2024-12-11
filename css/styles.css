@@ -97,14 +97,14 @@ nav a{
     color: #404BBF;
 }
 
-.adres{
+.adres-link{
     font-style: normal;
 }
 .font a{
     color: #434455;
     text-decoration: none;
 }
-address a:hover{
+.adres-link:hover{
     color:#404BBF
     
 }
