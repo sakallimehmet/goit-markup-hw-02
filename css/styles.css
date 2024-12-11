@@ -78,7 +78,7 @@ a{
     letter-spacing: 0.03em;
     text-transform: uppercase;
 }
-.site-logo-2 {
+.site-logoo {
     font-family: "Raleway", sans-serif;
     color: #2E2F42;
     font-weight: 700;
@@ -204,6 +204,8 @@ nav a{
     background-color: #2E2F42;
 }
 
-footer .logo2{
-    color:#F4F4FD;
+.footer-text{
+    line-height: 1.5;
+    color: #F4F4FD;
+    letter-spacing: 0.02em;
 }
