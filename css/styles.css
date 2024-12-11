@@ -92,6 +92,11 @@ nav a{
 .menu a:hover{
     color:#404BBF;
 }
+
+.menu a:focus {
+    color: #404BBF;
+}
+
 .adres{
     font-style: normal;
 }
