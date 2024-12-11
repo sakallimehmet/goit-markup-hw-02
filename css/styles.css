@@ -26,13 +26,21 @@ h2 {
     letter-spacing: 2%;
 }
 
-h3 {
+.list-title {
     font-family: 'Roboto', sans-serif;
     font-weight: 500;
     font-size: 20px;
-    letter-spacing: 2%;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
 }
 
+.list-text{
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
 .order-button{
 background-color: #4D5AE5;
     font-family: 'Roboto',sans-serif;
@@ -41,7 +49,7 @@ background-color: #4D5AE5;
     line-height: 1.5;
     letter-spacing: 0.04em;
     color: #ffffff;
-    cursor: pointer';
+    cursor: pointer;
 }
 
 .order-button:hover{
@@ -134,10 +142,6 @@ nav a{
 .order{
     background-color: #2E2F42;
     color:white;
-}
-
-.list h3{
-    color:#2E2F42;
 }
 
 .team h2{
