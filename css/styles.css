@@ -97,16 +97,26 @@ nav a{
     color: #404BBF;
 }
 
-.adres-link{
+.adres{
     font-style: normal;
 }
 .font a{
     color: #434455;
     text-decoration: none;
 }
+
+.adres-link{
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
 .adres-link:hover{
-    color:#404BBF
+    color:#404bbf;
     
+}
+.adres-link:focus {
+    color: #404BBF
 }
 
 .order button{
