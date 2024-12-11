@@ -33,7 +33,7 @@ h3 {
     letter-spacing: 2%;
 }
 
-.button-order{
+.order-button{
 background-color: #4D5AE5;
     font-family: 'Roboto',sans-serif;
     font-weight: 500;
@@ -44,11 +44,11 @@ background-color: #4D5AE5;
     cursor: pointer';
 }
 
-.button-order:hover{
+.order-button:hover{
     background-color: #404BBF;
 }
 
-.button-order:focus {
+.order-button:focus {
     background-color: #404BBF;
 }
 
