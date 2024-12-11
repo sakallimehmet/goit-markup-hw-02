@@ -80,7 +80,7 @@ nav a{
     color:#404bbf;
 }
 
-.page-menu a{
+.menu-link{
     font-family: 'Roboto', sans-serif;
     font-weight: 500;
     font-size: 16px;
@@ -89,11 +89,11 @@ nav a{
     color:#2E2F42;
 }
 
-.page-menu a:hover{
+.menu-link:hover{
     color:#404BBF;
 }
 
-.page-menu a:focus {
+.menu-link:focus {
     color: #404BBF;
 }
 
