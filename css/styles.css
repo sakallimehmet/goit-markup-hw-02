@@ -185,11 +185,19 @@ nav a{
     text-transform: capitalize;
     color: #2e2f42;
 }
-.portfolio h3{
-    color:#2E2F42;
+.portfolio-section-title{
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
 }
-.portfolio p {
+.portfolio-section-text{
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
     color: #434455;
+    
 }
 
 footer{
